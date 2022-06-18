@@ -1,11 +1,8 @@
 <div id="profile">
-<div id="imagen" align="center" width="250">
-  <iframe src="https://giphy.com/embed/QssGEmpkyEOhBCb7e1" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/coding-webdesign-coder-QssGEmpkyEOhBCb7e1">via GIPHY</a></p>
-</div>
-
-
+  <h1>BIENVENIDOS A MI PERFIL PROFESIONAL</h1>
 Actualmente soy facilitador / Instructor en las siguientes areas:
 
+  
 - 🔭 Diseño y Desarrollo Web ...
 - 🌱 Diseño Gráfico ...
 - 👯 E-Commerce ...
