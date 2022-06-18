@@ -1,6 +1,5 @@
 <div id="profile">
   <h1>BIENVENIDOS A MI PERFIL PROFESIONAL</h1>
-Actualmente soy facilitador / Instructor en las siguientes areas:
 
   
 - 🔭 Diseño y Desarrollo Web ...
