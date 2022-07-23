@@ -10,6 +10,6 @@
 - 🛠 Mantto. y Reparación de PC´s ...
 - 📟 Formación Online/Presencial ...
   
-    <buttom><a href = "https://mediafox360.com" target = '_blank'>MI SITIO WEB</a></buttom>
+    <buttom border=1><a href = "https://mediafox360.com" target = '_blank'>MI SITIO WEB</a></buttom>
   
 </div>
