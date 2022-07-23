@@ -9,7 +9,7 @@
 - 🖥 Ofimática ...
 - 🛠 Mantto. y Reparación de PC´s ...
 - 📟 Formación Online/Presencial ...
-  <ul>
-    <li><a href = "https://mediafox360.com" target = '_blank'>MI SITIO WEB</a></li>
-  </ul>
+  
+    <buttom><a href = "https://mediafox360.com" target = '_blank'>MI SITIO WEB</a></buttom>
+  
 </div>
