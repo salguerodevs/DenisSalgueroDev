@@ -1,9 +1,16 @@
-<div id="profile">
-  <style>
-    h1{
-      background-color: "red";
-    }
-  </style>
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mi Perfil</title>
+    <link rel="stylesheet" href="css/style.css" />
+    
+  </head>
+  <body>
+  <div id="profile">
   <h1>BIENVENIDOS A MI PERFIL PROFESIONAL</h1>
     
 - 💻 Diseño y Desarrollo Web ...
@@ -20,3 +27,25 @@
    <h2><a href = "https://denissalguerodev.github.io/airbnbclone/">👓DESCARGA ESTE PROYECTO GRATIS Y PRACTICA MUCHO!👓</a></h2>
   
 </div>
+
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
