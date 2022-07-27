@@ -1,6 +1,6 @@
 <div id="profile">
   <style>
-    #profile{
+    h1{
       background-color: "red";
     }
   </style>
