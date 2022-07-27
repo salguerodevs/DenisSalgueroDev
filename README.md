@@ -1,4 +1,9 @@
 <div id="profile">
+  <style>
+    #profile{
+      background-color: "red";
+    }
+  </style>
   <h1>BIENVENIDOS A MI PERFIL PROFESIONAL</h1>
     
 - 💻 Diseño y Desarrollo Web ...
@@ -12,6 +17,6 @@
   
     <h2><a href = "https://mediafox360.com">👓MI SITIO WEB👓</a></h2>
    <hr>
-   <h2><a href = "https://denissalguerodev.github.io/airbnbclone/" target="_blank">👓DESCARGA ESTE PROYECTO GRATIS Y PRACTICA MUCHO!👓</a></h2>
+   <h2><a href = "https://denissalguerodev.github.io/airbnbclone/">👓DESCARGA ESTE PROYECTO GRATIS Y PRACTICA MUCHO!👓</a></h2>
   
 </div>
