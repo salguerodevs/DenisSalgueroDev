@@ -9,7 +9,7 @@
   </head>
   <body>
   <div id="profile">
-  <h1>🎃 BIENVENIDOS A MI PERFIL PROFESIONAL 📆</h1>
+  <h1>🎃 WELCOME TO MY PROFILE 📆</h1>
     
 - 💻 Diseño y Desarrollo Web ...
 - 🎨 Diseño Gráfico ...
